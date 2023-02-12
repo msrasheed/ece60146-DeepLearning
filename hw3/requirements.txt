@@ -1,0 +1,6 @@
+ComputationalGraphPrimer=1.1.2
+jupyterlab==3.6.1
+matplotlib==3.6.3
+networkx==3.0
+numpy==1.24.1
+torch==1.13.1
