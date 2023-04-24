@@ -1,0 +1,13 @@
+DLStudio==2.2.2
+torch==1.13.1
+torchvision==0.14.1
+matplotlib==3.6.3
+PyMsgBox==1.0.9
+pycocotools==2.0.6
+jupyterlab==3.6.2
+scikit-learn==1.2.1
+seaborn==0.12.2
+opencv-contrib-python==4.7.0.72
+scikit-image==0.20.0
+pytorch-fid==0.3.0
+gensim==4.3.1
